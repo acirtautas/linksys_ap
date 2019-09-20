@@ -1,0 +1,13 @@
+default_config:
+logger:
+  default: error
+  logs:
+    custom_components.linksys_ap: debug
+
+
+
+device_tracker:
+  - platform: linksys_ap
+    host: 192.168.1.1
+    username: YOUR_USERNAME
+    password: YOUR_PASSWORD

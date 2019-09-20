@@ -1,0 +1,10 @@
+{
+    "domain": "linksys_ap",
+    "name": "Linksys AP",
+    "documentation": "https://github.com/custom-components/linksys_ap",
+    "requirements": [
+      "beautifulsoup4==4.8.0"
+    ],
+    "dependencies": [],
+    "codeowners": []
+}
